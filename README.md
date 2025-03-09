@@ -61,8 +61,8 @@ pip install -r requirements.txt
 Setup Instructions
 ------------------
 1. Clone the Repository:
-   git clone https://github.com/[your-username]/[your-repo-name].git
-   cd [your-repo-name]
+   git clone https://github.com/Heshan2691/stock-price-predictor.git
+   cd stock-price-predictor
 
 2. Place the Dataset:
    Ensure `question4-stock-data.csv` is in the notebook directory.
